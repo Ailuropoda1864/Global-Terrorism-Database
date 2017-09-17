@@ -90,11 +90,3 @@ By 9 am on August 25 you should submit:
  - A Jupyter notebook containing your EDA, Bayesian Inference, Missing Data Imputation, and write up (as a markdown cell). Please submit via pull request.
 - An 8-10 minute presentation intended for a **technical** audience. Please submit via slack or a google doc.
 
-
-## Other
-
-If you're enjoying this research (and want to go further), get in touch with Matt Brems. Your results can be shared with UMD START and academics. ([Gary LaFree](http://www.start.umd.edu/people/gary-lafree) or [Erin Miller](http://www.start.umd.edu/people/erin-miller))
-
-Moreover, if you want to dig into the literature, check out [Dr. Schrodt's](http://parusanalytics.com/about.html) Bayesian approach to understanding terror.
-
-Thank you to [Dr. Joseph Young](http://fs2.american.edu/jyoung/www/) for his thoughts on this research.
